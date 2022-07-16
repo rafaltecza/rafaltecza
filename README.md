@@ -6,7 +6,7 @@
 
 ### ![](https://komarev.com/ghpvc/?username=rafaltecza)
 
-<h2 align="center">📊 Github Stats</h2>
+<h2>📊 Github Stats</h2>
 <center>
 <div style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
   <a href='https://github.com/rafaltecza/github-stats-transparent'>
@@ -18,7 +18,7 @@
 </div>
 </center>
 
-<h2 align="center">👨‍💻 Repositories</h2>
+<h2>👨‍💻 Repositories</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/rafaltecza/daftcode-intern-rick-and-morty" title="Rick & Morty"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaltecza&repo=daftcode-intern-rick-and-morty&theme=react&border_color=61dafb&border_radius=12"></a>
@@ -26,7 +26,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/rafaltecza/learn-and-play-pamo" title="Rick & Morty"><img align="left" height="115" src=""></a>
+  <a align="left" href="https://github.com/rafaltecza/learn-and-play-pamo" title="Rick & Morty"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaltecza&repo=learn-and-play-pamo&theme=react&border_color=61dafb&border_radius=12"></a>
   <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Rick & Morty"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaltecza&repo=daftcode-intern-rick-and-morty&theme=react&border_color=61dafb&border_radius=12"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
