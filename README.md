@@ -1,6 +1,7 @@
 ### ![](https://komarev.com/ghpvc/?username=rafaltecza)
 
 <h2 align="center">📊 Github Stats</h2>
+<center>
 <div width="100%" algin="center">
   <a href='https://github.com/rafaltecza/github-stats-transparent'>
 
@@ -9,6 +10,7 @@
 
   </a>
 </div>
+</center>
 
 <h2 align="center">👨‍💻 Repositories</h2>
 <br>
