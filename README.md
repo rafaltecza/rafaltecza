@@ -35,8 +35,10 @@
 </div>
 
 <h2>💼 Currently employed</h2>
-<img src="https://inhire.io/img/companies/logos/10370_logo.png?t=1656979200691" alt="DaftCode">
-<img src="https://static.wixstatic.com/media/3a1001_e82a7ea2f0da4f7f8a0eef48fb27e93e~mv2.png/v1/fill/w_343,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WebUpSamoLogoCMYK.png" alt="WebUp!">
+<div align="center">
+  <img height="200" src="https://inhire.io/img/companies/logos/10370_logo.png?t=1656979200691" alt="DaftCode">
+  <img height="200" src="https://static.wixstatic.com/media/3a1001_e82a7ea2f0da4f7f8a0eef48fb27e93e~mv2.png/v1/fill/w_343,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WebUpSamoLogoCMYK.png" alt="WebUp!">
+</div>
 
 
 <!--
