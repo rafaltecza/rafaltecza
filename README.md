@@ -8,23 +8,9 @@
 
 <h2>📊 Github Stats</h2>
 <div style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
-<a href="https://github.com/rafaltecza/github-stats">
+<a align="center" href="https://github.com/rafaltecza/github-stats">
 
 ![](https://github.com/rafaltecza/github-stats/blob/output/generated/overview.svg)
-![](https://github.com/rafaltecza/github-stats/blob/output/generated/languages.svg)
-
-</a>
-</div>
-
-<h2>📊 Github Stats</h2>
-<div width="100%" align="center">
-<a align="left" href="https://github.com/rafaltecza/github-stats">
-
-![](https://github.com/rafaltecza/github-stats/blob/output/generated/overview.svg)
-
-</a>
-<a align="right" href="https://github.com/rafaltecza/github-stats">
-
 ![](https://github.com/rafaltecza/github-stats/blob/output/generated/languages.svg)
 
 </a>
