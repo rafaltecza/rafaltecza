@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-### ![](https://komarev.com/ghpvc/?username=rafaltecza)
+### ![](https://komarev.com/ghpvc/?username=rafaltecza) ![](https://img.shields.io/github/followers/rafaltecza?color=green&logo=github)
 
 <h2>📊 Github Stats</h2>
 <div style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
