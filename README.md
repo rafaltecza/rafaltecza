@@ -33,6 +33,12 @@
 <a align="center" href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='42px'/> </a>
 <a align="center" href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 </div>
+
+<h2>💼 Currently employed</h2>
+<img src="https://inhire.io/img/companies/logos/10370_logo.png?t=1656979200691" alt="DaftCode">
+<img src="https://static.wixstatic.com/media/3a1001_e82a7ea2f0da4f7f8a0eef48fb27e93e~mv2.png/v1/fill/w_343,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WebUpSamoLogoCMYK.png" alt="WebUp!">
+
+
 <!--
 **rafaltecza/rafaltecza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
