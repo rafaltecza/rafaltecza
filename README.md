@@ -16,12 +16,6 @@
 </div>
 </center>
 
-<h2>📊 Github Stats</h2>
-<div width="100%" align="center">
-  <a href='https://github.com/rafaltecza/github-stats-transparent'>![Stats Overview](https://github.com/rafaltecza/github-stats/blob/output/generated/languages.svg</a>
-  <a href='https://github.com/rafaltecza/github-stats-transparent'>![Most Used Languages](https://github.com/rafaltecza/github-stats/blob/output/generated/languages.svg)</a>
-</div>
-
 <h2>👨‍💻 Repositories</h2>
 <br>
 <div width="100%" align="center">
