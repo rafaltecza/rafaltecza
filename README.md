@@ -3,8 +3,8 @@
 ### 📊 Github Stats
 <a href='https://github.com/rafaltecza/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rafaltecza/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rafaltecza/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://github.com/rafaltecza/github-stats/blob/output/generated/languages.svg)
+![Most Used Languages](https://github.com/rafaltecza/github-stats/blob/output/generated/languages.svg)
 
 </a>
 
