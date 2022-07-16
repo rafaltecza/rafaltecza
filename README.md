@@ -20,6 +20,11 @@
 <div width="100%" align="center">
 <a align="left" href="https://github.com/rafaltecza/github-stats">
 
+![](https://github.com/rafaltecza/github-stats/blob/output/generated/overview.svg)
+
+</a>
+<a align="right" href="https://github.com/rafaltecza/github-stats">
+
 ![](https://github.com/rafaltecza/github-stats/blob/output/generated/languages.svg)
 
 </a>
