@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Feel+free+to+look+around....;to+know+me+a+little+better!&center=true&size=30">
+  </a>
+</h1>
+
 ### ![](https://komarev.com/ghpvc/?username=rafaltecza)
 
 <h2 align="center">📊 Github Stats</h2>
