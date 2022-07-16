@@ -2,7 +2,7 @@
 
 <h2 align="center">📊 Github Stats</h2>
 <center>
-<div width="100%" algin="center">
+<div style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
   <a href='https://github.com/rafaltecza/github-stats-transparent'>
 
   ![Stats Overview](https://github.com/rafaltecza/github-stats/blob/output/generated/languages.svg)
