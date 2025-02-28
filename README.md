@@ -28,13 +28,12 @@
 <a align="center" href="https://developer.android.com" target="_blank"> <img alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a align="center" href="https://kotlinlang.org" target="_blank"><img alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a align="center" href="https://www.java.com" target="_blank"><img alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a align="center" href="https://www.java.com" target="_blank"><img alt="Spring" height ="36px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png"></a>
 <a align="center" href="https://developer.android.com" target="_blank"> <img alt="C" height ="38px" src="https://storage.googleapis.com/replit/images/1642448532921_4130dcaedfe92406f3a5b52967488487.svg"> </a>
 <a align="center" href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='42px'/> </a>
 <a align="center" href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 24px;">
   <img height="100" src="https://inhire.io/img/companies/logos/10370_logo.png?t=1656979200691" alt="DaftCode">
 </div>
 
